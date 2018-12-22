@@ -12,7 +12,9 @@ public class Syntax {
 
 		System.out.println("This new class pushed is called Syntax");
 
+		System.out.println("This new class pushed is called Syntax");		
 		System.out.println("This new class pushed is called Syntax");
+
 
 		
 	}
